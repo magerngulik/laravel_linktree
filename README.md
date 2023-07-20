@@ -11,8 +11,9 @@
 - rubah dulu env di data
 - buat database baru dan setup di env
 - composer install
-- import database di file database/migrations/bookstore_app.sql
-- php artisan serve
+- php artisan key:generate
+- php artisan voyager:install (ini migrasi data dari voyeger jadi tidak perlu upload dari data lama)
+- php artisan voyager:admin your@email.com --create (buat akun untuk login)
 
 ## voyeger dokumentasi 
 voyeger dokumentasi bisa di akses [disini](https://voyager-docs.devdojo.com/getting-started/installation)
