@@ -8,12 +8,14 @@
 </p>
 
 ## intruksi untuk pakai tamplate
-- rubah dulu env di data
-- buat database baru dan setup di env
+- buat database baru
+- import database dari file sql di *public/presentation/linktree-admin.sql*
+- copy file .env example
+- dan rename menjadi .env
+- edit bagian database, user dan password database pada file .env sesuai dengan database dan user yang di gunakan
 - composer install
 - php artisan key:generate
-- php artisan voyager:install (ini migrasi data dari voyeger jadi tidak perlu upload dari data lama)
-- php artisan voyager:admin your@email.com --create (buat akun untuk login)
+- php artisan serve
 
 ## voyeger dokumentasi 
 voyeger dokumentasi bisa di akses [disini](https://voyager-docs.devdojo.com/getting-started/installation)
