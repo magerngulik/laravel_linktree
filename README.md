@@ -32,6 +32,6 @@ ini merupakan aplikasi seperti linktree beberapa fiture yang di sediakan;
 ![Tampilan user](https://github.com/magerngulik/laravel_linktree/blob/main/public/presentation/ss.png)
 ### Tampilan Admin
 - menu profile
-![Tampilan user](https://github.com/magerngulik/laravel_linktree/blob/main/public/presentation/ss.png)
+![Tampilan user](https://github.com/magerngulik/laravel_linktree/blob/main/public/presentation/menu%20profile.png)
 - menu link
-![Tampilan user](https://github.com/magerngulik/laravel_linktree/blob/main/public/presentation/ss.png)
+![Tampilan user](https://github.com/magerngulik/laravel_linktree/blob/main/public/presentation/menu%20link.png)
