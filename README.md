@@ -26,3 +26,12 @@ ini merupakan aplikasi seperti linktree beberapa fiture yang di sediakan;
 - update foto profile
 - update background
 - crud link list
+
+## Screenshot Aplikasi
+### Tampilan User
+![Tampilan user](https://github.com/magerngulik/laravel_linktree/blob/main/public/presentation/ss.png)
+### Tampilan Admin
+- menu profile
+![Tampilan user](https://github.com/magerngulik/laravel_linktree/blob/main/public/presentation/ss.png)
+- menu link
+![Tampilan user](https://github.com/magerngulik/laravel_linktree/blob/main/public/presentation/ss.png)
