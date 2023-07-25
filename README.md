@@ -20,3 +20,9 @@ voyeger dokumentasi bisa di akses [disini](https://voyager-docs.devdojo.com/gett
 
 ## buat laravel project laravel dengan versi
 composer create-project --prefer-dist laravel/laravel:^9.0 attendance app
+
+## Detail Project
+ini merupakan aplikasi seperti linktree beberapa fiture yang di sediakan;
+- update foto profile
+- update background
+- crud link list
